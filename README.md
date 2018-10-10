@@ -1,7 +1,7 @@
 # Example D3.js GO enrichment result bubble chart
 
 Example
-[figure](nanguage.github.io/examples/d3_bubble_chart/example.html)
+[figure](http://nanguage.org/examples/d3_bubble_chart/example.html)
 
 ## Dependancy
 
