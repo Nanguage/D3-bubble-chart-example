@@ -13,7 +13,7 @@ $ pip install click mako
 
 ## Usage
 
-Example data format see [this](./go_top10.tsv)
+Example data format see [this](./example_data.tsv)
 
 Render the result:
 
